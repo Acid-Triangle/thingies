@@ -1,1 +1,16 @@
-.fdvl-bdy{display:flex;justify-content:center;align-items:center;height:100vh;margin:0;background-color:#f5f5f5;}.fdvl-c{display:flex;justify-content:center;width:100%;}.fdvl-i{position:relative;display:inline-block;padding:10px;}.fdvl-i img{width:180px;height:auto;display:block;transition:0.3s;}.fdvl-corner,.fdvl-b{position:absolute;border:5px solid black;transition:0.3s;}.fdvl-corner{width:25px;height:25px;}.fdvl-tl{top:0;left:0;border-right:none;border-bottom:none;}.fdvl-tr{top:0;right:0;border-left:none;border-bottom:none;}.fdvl-bl{bottom:0;left:0;border-right:none;border-top:none;}.fdvl-br{bottom:0;right:0;border-left:none;border-top:none;}.fdvl-b{opacity:0;}.fdvl-tb{top:0;left:25px;width:130px;height:0;border-top:5px solid black;border-left:none;border-right:none;border-bottom:none;}.fdvl-bb{bottom:0;left:25px;width:130px;height:0;border-bottom:5px solid black;border-left:none;border-right:none;border-top:none;}.fdvl-lb{top:25px;left:0;width:0;height:130px;border-left:5px solid black;border-top:none;border-right:none;border-bottom:none;}.fdvl-rb{top:25px;right:0;width:0;height:130px;border-right:5px solid black;border-top:none;border-left:none;border-bottom:none;}.fdvl-i:hover .fdvl-b{opacity:1;}
+.fdvl-bdy{display:flex;justify-content:center;align-items:center;height:100vh;margin:0;background-color:#f5f5f5;}
+.fdvl-c{display:flex;justify-content:center;width:100%;}
+.fdvl-i{position:relative;display:inline-block;padding:10px;}
+.fdvl-i img{width:180px;height:auto;display:block;transition:0.3s;}
+.fdvl-corner,.fdvl-b{position:absolute;border:5px solid black;transition:0.3s;}
+.fdvl-corner{width:25px;height:25px;}
+.fdvl-tl{top:0;left:0;border-right:none;border-bottom:none;}
+.fdvl-tr{top:0;right:0;border-left:none;border-bottom:none;}
+.fdvl-bl{bottom:0;left:0;border-right:none;border-top:none;}
+.fdvl-br{bottom:0;right:0;border-left:none;border-top:none;}
+.fdvl-b{opacity:0;}
+.fdvl-tb{top:0;left:25px;width:130px;height:0;border-top:5px solid black;border-left:none;border-right:none;border-bottom:none;}
+.fdvl-bb{bottom:0;left:25px;width:130px;height:0;border-bottom:5px solid black;border-left:none;border-right:none;border-top:none;}
+.fdvl-lb{top:25px;left:0;width:0;height:130px;border-left:5px solid black;border-top:none;border-right:none;border-bottom:none;}
+.fdvl-rb{top:25px;right:0;width:0;height:130px;border-right:5px solid black;border-top:none;border-left:none;border-bottom:none;}
+.fdvl-i:hover .fdvl-b{opacity:1;}
